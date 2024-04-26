@@ -1,5 +1,5 @@
 
-# 🧠 MINDMATE.AI Hackathon Project 🚀
+# 🧠EduConnect - Way To Success🚀
 
 ## Problem Statement
 
