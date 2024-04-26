@@ -1,9 +1,11 @@
 
 # 🧠 MINDMATE.AI Hackathon Project 🚀
 
-## Challenge: Designing the Future of Learning in India
+## Challenge:
 
-**Objective:** To leverage Industry 4.0 technologies to empower students for competitive and higher education entrance exams. 
+Designing the Future of Learning in India
+
+To leverage Industry 4.0 technologies to empower students for competitive and higher education entrance exams. 
 
 Consider AI, real-time data, and interactive experiences to personalize learning journeys and maximize success rates. 
 
