@@ -13,11 +13,14 @@ How can technology bridge the gap between traditional education and the needs of
 - To utilize Gemini API to analyze skill gaps and recommend tailored courses.
 - To create AI-powered mock tests using fine-tuned Gemini API for personalized exam preparation.
 - To provide real-time assistance and guidance powered by fine-tuned Gemini API for users through query analysis of text or image data.
+- To foster a dynamic learning environment where peers can engage in collaborative learning through a feature-rich platform enabling video calls, screen sharing, file sharing, session recording, chatting, whiteboarding, etc.
+- To develop an AI model to predict the likelihood of admission and career success based on user skills and data analysis.
+- To create a secure and robust user interactive platform with engaging learning content and pathways.
 
 
 
 
-## Deliverables:
+## Deliverables
 
  - **Peer-to-Peer Virtual Discussion Panel:** Create a dynamic platform where students can engage with volunteers from diverse domains and specialized fields. Through realistic virtual classrooms equipped with interactive whiteboards, real-time chat, and live demonstrations, students gain immersive learning experiences from expert educators, accessible from anywhere.
 
