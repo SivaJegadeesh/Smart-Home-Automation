@@ -1,13 +1,13 @@
 
 # 🧠 MINDMATE.AI Hackathon Project 🚀
 
-## Challenge:
+## Problem Statement
 
 Designing the Future of Learning in India to leverage Industry 4.0 technologies to empower students for competitive and higher education entrance exams. 
 Consider AI, real-time data, and interactive experiences to personalize learning journeys and maximize success rates. 
 How can technology bridge the gap between traditional education and the needs of tomorrow's workforce?
 
-## Challenge: Objectives
+## Objectives
 
 - To develop a platform to empower students to excel in competitive exams while bridging the gap between career goals and skills acquisition. 
 - To utilize Gemini API to analyze skill gaps and recommend tailored courses.
