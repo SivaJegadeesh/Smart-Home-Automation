@@ -30,7 +30,7 @@ How can technology bridge the gap between traditional education and the needs of
 ## Features:
 ## My Image
 
-<img src="" alt="Image Description" width="500" height="300">
+<img src="architecture.JPG" alt="Image Description" width="500" height="300">
 
 ## Team Details:
 - Vijai Suria M, 3rd year, B.E. CSE, Madras Institute of Technology
