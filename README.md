@@ -11,10 +11,11 @@ How can technology bridge the gap between traditional education and the needs of
 
 ## Challenge: Objectives
 
-1.To develop a platform to empower students to excel in competitive exams while bridging the gap between career goals and skills acquisition. 
-2.To utilize Gemini API to analyze skill gaps and recommend tailored courses.
-3.To create AI-powered mock tests using fine-tuned Gemini API for personalized exam preparation.
-4.To provide real-time assistance and guidance powered by fine-tuned Gemini API for users through query analysis of text or image data.
+- To develop a platform to empower students to excel in competitive exams while bridging the gap between career goals and skills acquisition. 
+- To utilize Gemini API to analyze skill gaps and recommend tailored courses.
+- To create AI-powered mock tests using fine-tuned Gemini API for personalized exam preparation.
+- To provide real-time assistance and guidance powered by fine-tuned Gemini API for users through query analysis of text or image data.
+
 
 
 
