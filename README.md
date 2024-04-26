@@ -27,10 +27,9 @@ How can technology bridge the gap between traditional education and the needs of
 
  - **Predefined Learning Pathways and AI-Powered Mock Exams:** Develop predefined coaching programs for competitive entrance tests such as IIT-JEE, NEET, CAT, SAT, etc. Utilize AI to generate personalized mock exam questions, dynamically adapting to students' learning progress and exam targets, maximizing their preparation efficiency and success rates.
 
-## Features:
-## My Image
+## Features
 
-<img src="architecture.JPG" alt="Image Description" width="500" height="300">
+<img src="architecture.JPG" alt="Image Description" width="800" height="700">
 
 ## Team Details:
 - Vijai Suria M, 3rd year, B.E. CSE, Madras Institute of Technology
