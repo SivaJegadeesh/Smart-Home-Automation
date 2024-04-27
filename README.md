@@ -55,17 +55,19 @@ APIs Used:
 - Myrocart API
 
 ## Novelties 🎯
-It sounds like your e-learning platform incorporates several innovative features:
 
-- **Peer Connection for Collaborative Learning**: By connecting students enrolled in the same courses, you facilitate collaborative discussions, allowing learners to support and learn from each other.
 
-- **AI-Powered Test Score Analysis**: Your AI model analyzes test scores and predicts the probability of admission to higher institutions, providing valuable insights to students about their academic progress and future prospects.
+- **Peer Connection for Collaborative Learning**: By connecting students enrolled in the same courses, we facilitate collaborative discussions, allowing learners to support and learn from each other.
 
-- **Interview Preparation Support**: Your platform offers AI-driven support for interview preparation, addressing doubts and providing guidance to help students succeed in job interviews or admissions interviews.
+- **AI-Powered Test Score Analysis**: An AI model that analyzes test scores and predicts the probability of admission to higher institutions, providing valuable insights to students about their academic progress and future prospects.
 
-- **Skill Gap Analysis and Recommendations**: Through AI, you conduct skill gap analyses for users and offer personalized suggestions on the skills needed to achieve their goals, enabling learners to tailor their learning paths accordingly.
+- **Interview Preparation Support**: Our platform offers AI-driven support for interview preparation, addressing doubts and providing guidance to help students succeed in job interviews or admissions interviews.
 
-These features collectively offer a comprehensive and personalized learning experience, leveraging technology to enhance educational outcomes for students preparing for entrance examinations and skill-building.
+- **Skill Gap Analysis and Recommendations**: Through AI, we conduct skill gap analyses for users and offer personalized suggestions on the skills needed to achieve their goals, enabling learners to tailor their learning paths accordingly.
+  
+- **AI based Test Generation** : By generating tests for users to assess themselves, we empower learners to gauge their understanding and progress effectively.
+
+
 
 ## Team Details 👥
 - Vijai Suria M, 3rd year, B.E. CSE, Madras Institute of Technology
