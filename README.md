@@ -1,13 +1,12 @@
+# 🚀 EduConnect - Way To Success 🚀
 
-# 🚀 EduConnect - Way To Success🚀
-
-## Problem Statement
+## Problem Statement 💡
 
 Designing the Future of Learning in India to leverage Industry 4.0 technologies to empower students for competitive and higher education entrance exams. 
 Consider AI, real-time data, and interactive experiences to personalize learning journeys and maximize success rates. 
 How can technology bridge the gap between traditional education and the needs of tomorrow's workforce?
 
-## Objectives
+## Objectives 🎯
 
 - To develop a platform to empower students to excel in competitive exams while bridging the gap between career goals and skills acquisition. 
 - To utilize Gemini API to analyze skill gaps and recommend tailored courses.
@@ -17,10 +16,7 @@ How can technology bridge the gap between traditional education and the needs of
 - To develop an AI model to predict the likelihood of admission and career success based on user skills and data analysis.
 - To create a secure and robust user interactive platform with engaging learning content and pathways.
 
-
-
-
-## Deliverables
+## Deliverables 📦
 
  - **Peer-to-Peer Virtual Discussion Panel:** Create a dynamic platform where students can engage with volunteers from diverse domains and specialized fields. Through realistic virtual classrooms equipped with interactive whiteboards, real-time chat, and live demonstrations, students gain immersive learning experiences from expert educators, accessible from anywhere.
 
@@ -30,11 +26,11 @@ How can technology bridge the gap between traditional education and the needs of
 
  - **Predefined Learning Pathways and AI-Powered Mock Exams:** Develop predefined coaching programs for competitive entrance tests such as IIT-JEE, NEET, CAT, SAT, etc. Utilize AI to generate personalized mock exam questions, dynamically adapting to students' learning progress and exam targets, maximizing their preparation efficiency and success rates.
 
-## Features
+## Features 🌟
 
-<img src="architecture.JPG" alt="Image Description" width="800" height="500">
+<img src="architecture.JPG" alt="Architecture" width="800" height="500">
 
-## Tech Stack:
+## Tech Stack 🛠️
 
 Frontend:
 - HTML
@@ -59,7 +55,7 @@ APIs Used:
 - Myrocart API
 
 
-## Team Details:
+## Team Details 👥
 - Vijai Suria M, 3rd year, B.E. CSE, Madras Institute of Technology
 - Mugundh J B, 3rd year, B.E. CSE, Madras Institute of Technology
 - Siva Jegadeesh C B, 3rd year, B.E. CSE, Madras Institute of Technology
