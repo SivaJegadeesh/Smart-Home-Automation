@@ -1,5 +1,5 @@
 
-# 🧠EduConnect - Way To Success🚀
+# 🚀 EduConnect - Way To Success🚀
 
 ## Problem Statement
 
@@ -33,6 +33,31 @@ How can technology bridge the gap between traditional education and the needs of
 ## Features
 
 <img src="architecture.JPG" alt="Image Description" width="800" height="500">
+
+## Tech Stack:
+
+Frontend:
+- HTML
+- CSS
+- ReactJS
+
+Backend:
+- Python Flask
+
+Database:
+- SQLite
+
+AI Model Training:
+- Gradient Boosting Regressor
+- Support Vector Regressor
+- Lasso Regressor
+- Ridge Regressor
+
+APIs Used:
+- Gemini API
+- LinkedIn API
+- Myrocart API
+
 
 ## Team Details:
 - Vijai Suria M, 3rd year, B.E. CSE, Madras Institute of Technology
